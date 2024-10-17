@@ -1,15 +1,15 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Jinta Noda
 ==================================================================================================================================
 
-Software Engineer (with Cloud)
+Software Engineer
 ------------------------------
 
 I've been learning to code for 5 years and also majoring in BSc Computer Science with Artificial Intelligence. Interested in backend and cloud technologies.
 
 * 🌍  I'm based in United Kingdom
-* 🖥️  See my portfolio at [Serverless Feedback Analysis API with Machine Learning](http://github.com/Jin2oo2/feedback-analysis)
+* 🖥️  See my recent project at [Serverless Feedback Analysis API with Machine Learning](http://github.com/Jin2oo2/feedback-analysis)
 * ✉️  You can contact me at [nojinhiroaki@icloud.com](mailto:nojinhiroaki@icloud.com)
-* 🧠  I'm learning LangChain
+* 🧠  I'm currently learning LangChain
 
 ### Skills
 
